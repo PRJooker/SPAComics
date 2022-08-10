@@ -1,0 +1,1 @@
+SPA de comics, junto con buscador con rutas privadas y publicas, autentificacion de usuario y animaciones 
